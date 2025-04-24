@@ -1,4 +1,4 @@
-## Olá me chamo Marcos Gabriel, estudante de Analise e Desenvolvimento de Sistemas, apaixonado de programação e tecnologia!
+## Olá me chamo Marcos Gabriel, Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação e tecnologia!
  
 <div> 
   <a href = "mailto:mgabrielrodrigues22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
